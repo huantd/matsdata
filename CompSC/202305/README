@@ -1,7 +1,8 @@
 --- compSC, version of May 2023 
 
-This is the dataset of 584 atomic structures for which $\lambda$ and $\omega_{\log}$, two parameters of the 
-superconductivity-related electron-phonon interactions, were computed in the literature, curated, and used. 
+This is the dataset of 587 atomic structures for which 584 values of $\lambda$ 
+and 567 values of $\omega_{\log}$, two parameters of the superconductivity-related 
+electron-phonon interactions, were computed in the literature, curated, and used. 
 Details on this dataset can be found at
 
 @article{tran2023machine,

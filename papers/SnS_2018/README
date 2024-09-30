@@ -1,0 +1,14 @@
+This is the dataset of 369 low-energy atomic structures predicted for SnS3, Sn2S5, 
+SnS2, Sn2S3, SnS, Sn3S2, Sn2S, Sn5S2, and Sn3S. Details on this dataset can be 
+found at
+
+@article{tuoc2018predicted,
+  title={Predicted Binary Compounds of Tin and Sulfur},
+  author={Tuoc, Vu Ngoc and Huan, Tran Doan},
+  journal={The Journal of Physical Chemistry C},
+  volume={122},
+  number={30},
+  pages={17067--17072},
+  year={2018},
+  publisher={ACS Publications}
+}

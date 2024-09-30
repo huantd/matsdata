@@ -1,0 +1,16 @@
+This is the dataset of 358 low-energy atomic structures predicted for 13 Mg-Si binary 
+compounds. Files are given in CIF format and named as struct-i-p.cif where i is the 
+index of the structures at 0 GPa (1 for lowest energy, and higher i for higher energy), 
+and p is the pressure in GPa. Details on this dataset can be found at
+
+@article{huan2018pressure,
+  title={Pressure-stabilized binary compounds of magnesium and silicon},
+  author={Huan, Tran Doan},
+  journal={Physical Review Materials},
+  volume={2},
+  number={2},
+  pages={023803},
+  year={2018},
+  publisher={APS}
+}
+

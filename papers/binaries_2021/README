@@ -1,0 +1,14 @@
+This is the dataset of 61 atomic structures of BSb, 124 atomic structures of AlSb, 
+65 atomic structures of MgSi2, and 39 atomic structures of Sn3S, predicted by 
+minima-hopping method. Details on this dataset can be found at
+
+@article{vu2021atomic,
+  title={Atomic configurations for materials research: A case study of some simple binary compounds},
+  author={Vu, Tuoc N and Nayak, Sanjeev K and Nguyen, Nga TT and Alpay, S and Tran, Huan},
+  journal={AIP Advances},
+  volume={11},
+  number={4},
+  year={2021},
+  publisher={AIP Publishing}
+}
+

@@ -16,3 +16,6 @@ Details on this dataset can be found at
   publisher={APS}
 }
 
+Note by HT: in the original dataset, there is one duplicate, which was removed in 
+August of 2024. The dataset available here has 586 atomic structures for which 
+583 values of $\lambda$ and 566 values of $\omega_{\log}$ were reported.
